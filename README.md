@@ -48,9 +48,9 @@ This project performs an **Exploratory Data Analysis (EDA)** on a retail store's
 ---
 
 ## 📂 Project Structure
-### ├── black_friday_sales_eda.ipynb # Main analysis notebook 
-### ├── BlackFriday.csv # Dataset file 
-### └── README.md # Project documentation
+- ├── black_friday_sales_eda.ipynb # Main analysis notebook 
+- ├── BlackFriday.csv # Dataset file 
+- ├── README.md # Project documentation
 
 ## 🚫 Git Best Practices
 
